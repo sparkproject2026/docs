@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Spark Project（星火计划）皆在帮助同学们获得更好的校园生活。
+
+---
+
+星星之火，可以燎原。
