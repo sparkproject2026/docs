@@ -5,7 +5,7 @@ categories: [教程, 计算机, 常识]
 tags: [教程, 计算机, 计算机常识]
 ---
 
-## 打开任务管理器 {:#open-task-manager}
+## 打开任务管理器
 
 > 在 [Windows 11]({% post_url 2026-03-22-windows-11 %}) 上：此操作将打开新版任务管理器；若要打开旧版任务管理器，请参见 [打开旧版任务管理器]({% post_url 2026-03-22-open-task-manager %})。
 > 
@@ -20,7 +20,7 @@ tags: [教程, 计算机, 计算机常识]
 
 ## 打开旧版任务管理器
 
-> 在非 [Windows 11]({% post_url 2026-03-22-windows-11 %}) 上：此操作的结果同 [打开任务管理器]({% post_url 2026-03-22-open-task-manager %}#open-task-manager)。
+> 在非 [Windows 11]({% post_url 2026-03-22-windows-11 %}) 上：此操作的结果同 [打开任务管理器]({% post_url 2026-03-22-open-task-manager %})。
 {: .prompt-warning }
 
 打开旧版任务管理器有一种方式：
