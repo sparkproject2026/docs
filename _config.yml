@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: Spark Project # the main title
 
-tagline: 星火计划 # it will display as the subtitle
+tagline: 星星之火，可以燎原。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Spark Project（星火计划）官方网站。
+  Spark Project（星火计划）官方文档网站。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
