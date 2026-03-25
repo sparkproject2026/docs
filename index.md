@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 你好！欢迎加入 Spark Project（星火计划）。
