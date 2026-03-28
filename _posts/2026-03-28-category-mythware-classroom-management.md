@@ -5,4 +5,4 @@ categories: [Category]
 tags: [category]
 ---
 
-- [绕过极域屏幕共享]({% 2026-03-24-bypass-mythware-screen-sharing %})
+- [绕过极域屏幕共享]({% post_url 2026-03-24-bypass-mythware-screen-sharing %})
