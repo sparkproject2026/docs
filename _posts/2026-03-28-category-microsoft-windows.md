@@ -9,7 +9,7 @@ tags: [category]
 
 ## 版本
 
-- [Windows 11]({% post_url 2026-03-24-category-windows-11 %})
+- [Windows 11]({% post_url 2026-03-24-windows-11 %})
 
 ## 相关文章
 
